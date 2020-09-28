@@ -10,8 +10,8 @@ repositories {
 }
 
 dependencies {
-    a> compile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.8.11.2'
-    b> compile group: 'com.j256.ormlite', name: 'ormlite-jdbc', version: '5.0'
-    c> compile group: 'com.j256.ormlite', name: 'ormlite-core', version: '5.0'
+     compile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.8.11.2'
+     compile group: 'com.j256.ormlite', name: 'ormlite-jdbc', version: '5.0'
+     compile group: 'com.j256.ormlite', name: 'ormlite-core', version: '5.0'
 
 }

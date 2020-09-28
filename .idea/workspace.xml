@@ -14,6 +14,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29a36a52-976c-4a36-94c6-7decc4d5d166" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Roba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zadaci/Konstante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak3IzmenaVrednosti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak4BrisanjeVrednosti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
@@ -30,6 +40,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -43,6 +56,13 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +81,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../milosradin/Termin5/Termin5Resenja" />
   </component>
   <component name="RunManager">
     <configuration name="ZadatakAvionRoba" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -108,5 +128,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="296" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601313787113">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="659" y="296" width="424" height="491" key="FileChooserDialogImpl/72.27.1608.1023@72.27.1608.1023" timestamp="1601313787113" />
+    <state width="1562" height="266" key="GridCell.Tab.0.bottom" timestamp="1601312652723">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state width="1562" height="266" key="GridCell.Tab.0.bottom/72.27.1608.1023@72.27.1608.1023" timestamp="1601312652723" />
+    <state width="1562" height="266" key="GridCell.Tab.0.center" timestamp="1601312652722">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state width="1562" height="266" key="GridCell.Tab.0.center/72.27.1608.1023@72.27.1608.1023" timestamp="1601312652722" />
+    <state width="1562" height="266" key="GridCell.Tab.0.left" timestamp="1601312652722">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state width="1562" height="266" key="GridCell.Tab.0.left/72.27.1608.1023@72.27.1608.1023" timestamp="1601312652722" />
+    <state width="1562" height="266" key="GridCell.Tab.0.right" timestamp="1601312652723">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state width="1562" height="266" key="GridCell.Tab.0.right/72.27.1608.1023@72.27.1608.1023" timestamp="1601312652723" />
   </component>
 </project>
