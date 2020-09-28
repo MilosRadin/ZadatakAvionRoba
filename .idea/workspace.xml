@@ -15,7 +15,7 @@
   <component name="ChangeListManager">
     <list default="true" id="29a36a52-976c-4a36-94c6-7decc4d5d166" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Roba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Roba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,10 +120,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="684" y="257" width="575" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1601314918681">
+    <state x="684" y="257" width="575" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1601316347299">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
-    <state x="684" y="257" width="575" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1608.1023@72.27.1608.1023" timestamp="1601314918681" />
+    <state x="684" y="257" width="575" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1608.1023@72.27.1608.1023" timestamp="1601316347299" />
     <state x="659" y="296" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601313787113">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
