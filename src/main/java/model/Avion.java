@@ -18,7 +18,7 @@ public class Avion {
     private String oznaka;
 
     @DatabaseField(columnName = POLJE_RASPON_KRILA, canBeNull = false)
-    private String raspon_krila;
+    private int raspon_krila;
 
     @ForeignCollectionField(foreignFieldName = "avion")
     private ForeignCollection<Roba> robe;
@@ -26,7 +26,7 @@ public class Avion {
     public Avion() {
     }
 
-    public Avion(String oznaka, String raspon_krila) {
+    public Avion(String oznaka, int raspon_krila) {
         this.oznaka = oznaka;
         this.raspon_krila = raspon_krila;
     }
@@ -47,11 +47,11 @@ public class Avion {
         this.oznaka = oznaka;
     }
 
-    public String getRaspon_krila() {
+    public int getRaspon_krila() {
         return raspon_krila;
     }
 
-    public void setRaspon_krila(String raspon_krila) {
+    public void setRaspon_krila(int raspon_krila) {
         this.raspon_krila = raspon_krila;
     }
 
